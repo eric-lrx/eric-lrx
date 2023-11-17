@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="160" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47prdbj1ed2hj7opicu787oz7noq50j8djs0nhoe2h&ep=v1_gifs_search&rid=giphy.gif&ct=g""  />
+<img align="right" height="160" src="https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882""  />
 
 ###
 
