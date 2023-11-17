@@ -39,8 +39,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/eric-lrx/eric-lrx/output/snake.svg" alt="Snake animation" />
-
-###
