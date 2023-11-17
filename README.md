@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="160" src="https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882""  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
